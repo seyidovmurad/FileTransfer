@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QXanm6bRXaniMx5ZIjqYrS55YoqfkoaKHDv04+TcKlQONAN6XeTPlP2mE34OJRDWk+ni6b3s7G/LG6rhRHgU0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\01mur\\source\\repos\\FileTransfer\\FileTransfer\\FileTransfer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\01mur\\.nuget\\packages\\fody\\6.5.1\\fody.6.5.1.nupkg.sha512",
+    "C:\\Users\\01mur\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\01mur\\.nuget\\packages\\propertychanged.fody\\3.4.0\\propertychanged.fody.3.4.0.nupkg.sha512",
+    "C:\\Users\\01mur\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
